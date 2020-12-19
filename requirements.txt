@@ -1,0 +1,3 @@
+adal
+msrestaazure
+azure.keyvault
